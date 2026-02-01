@@ -8,7 +8,7 @@
 
 ---
 
- Week 1 Progress (Jan 22-24, 2026)
+ Week 1 Progress 
 
 ### Concepts Learned:
 - Variables, data types, operators
@@ -26,22 +26,22 @@
 
 ##  What's Next:
 
-### Week 2 (Starting Jan 27):
+### Month 1 :
 - Dictionaries and data structures
 - File handling
 - SQL basics
 
-### Month 2 (February):
+### Month 2:
 - SQL mastery
 - Pandas for data analysis
 - First data analysis project
 
-### Month 3 (March):
+### Month 3 :
 - Data visualization (matplotlib, seaborn, PowerBI)
 - Build portfolio projects
 - Polish resume and LinkedIn
 
-### Month 4 (April):
+### Month 4:
 - Apply to 100+ internships
 - Interview prep
 
